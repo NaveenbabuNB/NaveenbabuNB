@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Naveen Babu 👋
 
-<!--
-**NaveenbabuNB/NaveenbabuNB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. Information Technology Graduate
 
-Here are some ideas to get you started:
+💻 Python Developer | Software Engineering Enthusiast | AI & Data Science Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a Information Technology graduate passionate about building reliable software and solving real-world problems through technology. I enjoy working with Python, data analysis, and AI-driven solutions.
+
+## Currently Working On
+
+* Python Automation & Testing
+* Python Development & Automation Projects
+* AI & Data Science Projects
+* Building Production-Ready Projects & Expanding My Technical Portfolio
+
+## Tech Stack
+
+**Languages:** Python, SQL, HTML, CSS, JavaScript
+
+**Tools:** GitHub, VS Code, Streamlit, Power BI
+
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, OpenCV, Flask, Streamlit
+
+## What You'll Find Here
+
+* Python Projects
+* Testing & Automation Scripts
+* AI & Machine Learning Applications
+* Data Analysis Projects
+
+## Connect With Me
+
+📧 Email: naveennb2k24@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/naveenbaburameshbabu101009
+---
+
+*"Always learning, building, and improving."*
