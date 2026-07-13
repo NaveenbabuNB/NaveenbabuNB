@@ -33,8 +33,6 @@ I am a Information Technology graduate passionate about building reliable softw
 ## Connect With Me
 
 📧 Email: naveennb2k24@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/naveenbaburameshbabu101009
 ---
 
 *"Always learning, building, and improving."*
