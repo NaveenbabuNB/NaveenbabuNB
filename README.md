@@ -2,7 +2,7 @@
 
 🎓 M.Sc. Information Technology Graduate
 
-💻 Python Developer | Software Engineering Enthusiast | AI & Data Science Learner
+💻 Python Developer | AI/ML Engineer | Data Analyst | Software Engineer
 
 ## About Me
 
@@ -17,7 +17,7 @@ I am a Information Technology graduate passionate about building reliable softw
 
 ## Tech Stack
 
-**Languages:** Python, SQL, HTML, CSS, JavaScript
+**Languages:** Python, MySQL, HTML, CSS, JavaScript
 
 **Tools:** GitHub, VS Code, Streamlit, Power BI
 
